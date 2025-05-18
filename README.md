@@ -68,10 +68,15 @@ Output is displayed or used in downstream systems (OCR, language tools, etc.)
 🧪 Usage
 
 Train the Model
+
 python train_model.py
+
 Evaluate Performance
+
 python evaluate_model.py
+
 Predict a New Image
+
 python predict_image.py 
 
 📚 Applications
