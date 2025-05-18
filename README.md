@@ -72,6 +72,7 @@ Evaluate Performance
 python evaluate_model.py
 Predict a New Image
 python predict_image.py --image path_to_image.jpg
+
 📚 Applications
 📝 Optical Character Recognition (OCR) for Tamil script
 
